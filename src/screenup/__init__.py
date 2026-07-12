@@ -1,0 +1,1 @@
+"""ScreenUp GNOME PiP app."""

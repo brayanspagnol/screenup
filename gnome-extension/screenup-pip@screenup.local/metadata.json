@@ -1,0 +1,7 @@
+{
+  "uuid": "screenup-pip@screenup.local",
+  "name": "ScreenUp PiP",
+  "description": "Mantem a janela do ScreenUp/mpv acima das outras janelas no GNOME Shell.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}
