@@ -7,10 +7,11 @@
     "dev": "npm run start",
     "preview": "npm run start",
     "lint": "python3 -m py_compile src/screenup/*.py",
+    "install:deps": "bash scripts/install-deps.sh",
     "install:app": "bash scripts/install-app.sh",
     "install:extension": "bash scripts/install-gnome-extension.sh",
     "install:kwin-rule": "bash scripts/install-kwin-rule.sh",
-    "install": "npm run install:app && npm run install:extension && npm run install:kwin-rule",
+    "install": "npm run install:deps && npm run install:app && npm run install:extension && npm run install:kwin-rule",
     "reload:extension": "bash scripts/reload-gnome-extension.sh",
     "doctor": "bash scripts/doctor.sh"
   },
