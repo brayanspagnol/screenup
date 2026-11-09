@@ -4,6 +4,8 @@
 ![Platform: Linux](https://img.shields.io/badge/platform-Linux-blue)
 ![Language: Python](https://img.shields.io/badge/language-Python-3776AB)
 
+[Leia em português](README.pt-BR.md)
+
 ScreenUp is a Linux app: paste a URL and it opens in a popup that stays on top of all other apps. I felt Linux was missing this.
 
 ## Install
